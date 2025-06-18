@@ -10,8 +10,8 @@ import io
 import os
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
-# ВСТАВЬ СЮДА СВОЙ СЕРВИСНЫЙ КЛЮЧ ДОСТУПА VK
-ACCESS_TOKEN = "8af0a9a88af0a9a88af0a9a85c89c3a28c88af08af0a9a8e2cebb954b16a9a1df12f18b"
+# ВСТАВЬТЕ СЮДА СВОЙ СЕРВИСНЫЙ КЛЮЧ ДОСТУПА VK
+ACCESS_TOKEN = ""
 
 def normalize_text(text):
     text = text.lower()
