@@ -73,15 +73,13 @@
 
 #### Интерфейс приложения
 
-``` Настройка параметров 
+
 ![](https://github.com/signum-solis/diplom_analyzermedia/blob/main/Bear-02/0rGSZ-Es1Pg.jpg)
-```
+
 #### Предпросмотр
-``` Предпросмотр базового варианта данных, которые пойдут в итоговый отчет
-![](https://github.com/signum-solis/diplom_analyzermedia/blob/main/Bear-02/uiir-oxvEHs.jpg)
-```
+
+![Предпросмотр базового варианта данных, которые пойдут в итоговый отчет](https://github.com/signum-solis/diplom_analyzermedia/blob/main/Bear-02/uiir-oxvEHs.jpg)
 #### Отчет в формате 
-``` Итоговый отчет в формате PDF
-![](https://github.com/signum-solis/diplom_analyzermedia/blob/main/Bear-02/PX_a2gZSLtw.jpg)
-```
+
+![Итоговый отчет в формате PDF](https://github.com/signum-solis/diplom_analyzermedia/blob/main/Bear-02/PX_a2gZSLtw.jpg)
 
